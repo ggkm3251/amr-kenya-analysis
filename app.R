@@ -1,5 +1,7 @@
 library(shiny)
-library(tidyverse)
+library(readr)
+library(dplyr)
+library(ggplot2)
 
 # Load data
 amr_data <- read_csv("data/amr_data.csv") %>%
