@@ -4,7 +4,7 @@ This project presents an interactive R Shiny dashboard for exploring **Antimicro
 
 ---
 
-## 📌 Project Goals
+## Project Goals
 
 - Enable dynamic exploration of AMR data.
 - Visualize patterns of resistance to support public health surveillance.
@@ -12,17 +12,17 @@ This project presents an interactive R Shiny dashboard for exploring **Antimicro
 
 ---
 
-## 📊 Features
+## Features
 
-- 📍 County-level filtering
-- 🧫 Pathogen-specific resistance summaries
-- 📈 Interactive bar plots of resistance trends
-- 📆 Timeline visualization by sample date
-- 💾 Upload-ready format for dummy or real surveillance datasets
+- County-level filtering
+- Pathogen-specific resistance summaries
+- Interactive bar plots of resistance trends
+- Timeline visualization by sample date
+- Upload-ready format for dummy or real surveillance datasets
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **R**
   - `shiny`
@@ -34,11 +34,11 @@ This project presents an interactive R Shiny dashboard for exploring **Antimicro
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/amr-dashboard.git
+   git clone https://github.com/ggkm3251/amr-kenya-analysis.git
 
 2. Open RStudio and set working directory to the project folder
 
